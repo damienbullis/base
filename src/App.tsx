@@ -1,5 +1,5 @@
 const App: React.FC<{}> = () => {
-  return <div>Hello Somethings</div>;
+  return <div>Welcome to Base</div>;
 };
 
 export default App;
